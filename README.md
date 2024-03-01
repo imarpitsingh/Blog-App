@@ -1,6 +1,6 @@
 Blog App using React
 
-![1](https://github.com/imarpitsingh/Blog-App/assets/69472042/479968cb-d265-4202-b7c5-082ead70b2b6)
-![2](https://github.com/imarpitsingh/Blog-App/assets/69472042/c9a37b78-c76d-4a84-a29c-396c4580f239)
-![3](https://github.com/imarpitsingh/Blog-App/assets/69472042/ab8f52ab-61b8-4130-b55f-4a47c63539f7)
-![4](https://github.com/imarpitsingh/Blog-App/assets/69472042/d89002d0-26ec-437a-9192-2e7d623072b6)
+![1](https://github.com/imarpitsingh/Blog-App/assets/69472042/437e8459-58f3-465b-8115-ccb22fac73b0)
+![2](https://github.com/imarpitsingh/Blog-App/assets/69472042/11dc4455-7c8b-4686-81f8-843e73b14a56)
+![3](https://github.com/imarpitsingh/Blog-App/assets/69472042/28086d0b-3f42-476d-86bb-bdecf6b03e6f)
+![4](https://github.com/imarpitsingh/Blog-App/assets/69472042/7e3c74c8-4ccd-4f1b-8311-4057db01d673)
